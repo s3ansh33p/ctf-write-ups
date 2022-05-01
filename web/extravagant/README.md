@@ -34,6 +34,7 @@ Now let's try to upload the xml file. This can be done by using the /trial route
 ```
 [HOST]:[PORT]/XML?file=vuln.xml
 ```
+Our flag is read from the file vuln.xml and is returned for us to view.
 
 ---
 [Back to home](../../README.md)
