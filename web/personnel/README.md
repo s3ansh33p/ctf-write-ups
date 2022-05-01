@@ -6,8 +6,7 @@ Points: 50
 
 ## Description
 
-> A challenge that was never discovered during the 2021 Constellations mission..
-. now ungated :)
+> A challenge that was never discovered during the 2021 Constellations mission... now ungated :)
 
 ## Attached Files
 
